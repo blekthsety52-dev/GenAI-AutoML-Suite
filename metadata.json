@@ -1,0 +1,6 @@
+{
+  "name": "GenAI AutoML Suite",
+  "description": "A production-ready AI management platform for dataset orchestration, model training (prompt engineering), and real-time inference using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
